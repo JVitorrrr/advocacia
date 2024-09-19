@@ -1,0 +1,80 @@
+*{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.secao1{
+    margin:0;
+    padding: 0;
+    background-image: url('capa.jpg');
+    min-height: 800px;
+    text-align: center;
+    background-size: cover;
+    background-attachment: fixed;
+    padding-top: 20px;
+}
+.secao1 h1{
+    padding-left: 70%;
+}
+.secao1 h2{
+    padding-left: 66%;
+}
+.secao2{
+    text-align: center;
+    font-size: 18px;
+
+}
+.secao2 h3{
+    text-align:justify;
+    padding-left: 20%;
+}
+.secao2 p{
+    text-align: justify;
+    padding-left: 20%;
+    padding-right: 20%;
+}
+.imagem{
+    width: 20%;
+}
+.secao3{
+    background-image: url('fundo.jpg');
+    min-height: 200px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 50px;
+}
+.secao4 h1{
+    text-align: center;
+}
+.secao4 h2, p, ul{
+    padding-left:10%;
+    font-size: 18px;
+}
+
+.secao5 h1{
+    text-align: center;
+}
+.secao5 h2, ul{
+    padding-left:10%;
+    font-size: 18px;
+}
+.secao3 h1{
+    background-color: white;
+    border-radius: 50px;
+    text-align: center;
+    width: 200px;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+}
+.secao4{
+    height: 300px;
+}
+.area{
+    padding: 30px;
+}
+.secao5{
+    height: 200px;
+}
